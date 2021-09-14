@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.002" height="16.002" viewBox="0 0 16.002 16.002">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16.003" height="16.002" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Chart" clip-path="url(#clip-path)">
+    <path id="Vereinigungsmenge_43" data-name="Vereinigungsmenge 43" d="M-463-17056v-12h4v12Zm-6,0v-16h4v16Zm-6,0v-8h4v8Z" transform="translate(475.002 17072)" fill="#fbfbfb"/>
+  </g>
+</svg>
