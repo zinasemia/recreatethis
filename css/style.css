@@ -71,8 +71,8 @@ li a {
 
 .redbox {
     background-color: var(--main-bg-color);
-    width: 100px;
-    height: 100px;
+    /* width: 100px;
+    height: 100px; */
 }
 
 .whitebox {
@@ -82,12 +82,17 @@ li a {
     flex-direction: column;
     flex-wrap: wrap;
 }
+h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2.5em;
+    color: var(--third-color);
+}
 
 h2 {border-bottom: var(--font-color) 2px solid;
-
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     color: var(--third-color);
+
 }
 
 p {
